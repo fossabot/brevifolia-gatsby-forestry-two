@@ -13,6 +13,7 @@
 ## About
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/314f6fb1-b4a6-484a-ad3d-c26663a63bca/deploy-status)](https://app.netlify.com/sites/brevifolia-gatsby-forestry/deploys)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbunsen%2Fbrevifolia-gatsby-forestry-two.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbunsen%2Fbrevifolia-gatsby-forestry-two?ref=badge_shield)
 
 Brevifolia is minimalist blog starter to get you going using [Forestry](https://forestry.io/) with [Gatsby](https://www.gatsbyjs.org/). Check out the demo [here](https://brevifolia-gatsby-forestry.netlify.com/)
 
@@ -93,3 +94,7 @@ The [instant preview](https://forestry.io/docs/previews/instant-previews/) metho
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kendallstrautman/brevifolia-gatsby-forestry)
 
 [Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/) is a great way to easily deploy sites. There's no special setup you need to do with Forestry to deploy with Netlify. When Forestry makes commits to your repo, Netlify will auto-trigger a rebuild / deploy when new commits are made.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbunsen%2Fbrevifolia-gatsby-forestry-two.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbunsen%2Fbrevifolia-gatsby-forestry-two?ref=badge_large)
